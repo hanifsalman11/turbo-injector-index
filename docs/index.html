@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TurboInjectorIndex — Fuel Injector Size (cc/lb), Turbo Airflow (lb/min & CFM) & Fuel Pump Calculator (2026)</title>
+  <meta name="description" content="Calculate exact forced-induction fuel injector size (cc/min and lb/hr at 80% duty cycle for 93 octane gas and E85), turbocharger compressor airflow (lb/min and CFM), and Walbro LPH fuel pump capacity for LS, Coyote, K24, 2JZ, and B58 builds.">
+  <link rel="canonical" href="https://hanifsalman11.github.io/turbo-injector-index/">
+  <link rel="alternate" type="application/rss+xml" title="TurboInjectorIndex RSS Feed" href="https://hanifsalman11.github.io/turbo-injector-index/rss.xml">
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col">
+  <header class="border-b border-zinc-800 bg-zinc-900/80 sticky top-0 z-30 backdrop-blur">
+    <div class="max-w-5xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="text-lg font-black text-white flex items-center gap-2">
+        <span class="bg-red-500 text-zinc-950 px-2 py-0.5 rounded font-black">TURBO</span>InjectorIndex
+      </div>
+      <a href="https://www.amazon.com/s?k=Turbocharger%2B1000cc%2BFuel%2BInjectors%2BWalbro%2B450%2BFuel%2BPump%2BAEM%2BWideband&tag=salmanrevie04-20" target="_blank" rel="nofollow sponsored" class="text-xs sm:text-sm bg-red-500 hover:bg-red-400 text-zinc-950 font-extrabold px-3.5 py-2 rounded-lg transition">
+        Shop Turbochargers, E85 Injectors & Fuel Pumps on Amazon →
+      </a>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-12 flex-1 w-full">
+    <div class="text-center max-w-2xl mx-auto mb-10">
+      <h1 class="text-3xl sm:text-5xl font-black text-white tracking-tight">Turbo Airflow (lb/min & CFM), Fuel Injector & LPH Pump Database</h1>
+      <p class="text-zinc-400 mt-3 text-base sm:text-lg">Select your engine platform, turbocharger model, or horsepower target below to calculate BSFC fuel injector flow (cc/min & lb/hr at 80% IDC), compressor pressure ratio, and E85 LPH fuel pump requirements.</p>
+      <div class="mt-6">
+        <input id="filterInput" type="text" placeholder="Search engine, turbo, or injector size (e.g. 5.3 LS Turbo, K24, 2JZ, GT3582R, S475, 1000cc Injectors, Walbro 450, E85...)" class="w-full bg-zinc-900 border border-zinc-700 rounded-xl px-4 py-3.5 text-sm text-white focus:outline-none focus:border-red-500">
+      </div>
+    </div>
+
+    <div id="trbGrid" class="grid sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <a href="53l-60l-chevy-ls-turbo-550-hp-on-93-octane-pump-gas-injector-turbo-pump-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-red-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-red-500 text-zinc-950 px-2.5 py-0.5 rounded">490cc (47 lb/hr)</span>
+            <span class="text-xs text-zinc-400">55.0 lb/min | 220 LPH</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-red-400 transition">5.3L / 6.0L Chevy LS Turbo (550 HP on 93 Octane Pump Gas)</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact fuel injector size (490 cc/min / 47 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 1.88 PR), and 220 LPH fuel pump for 5.3L / 6.0L Chevy LS Turbo (550 HP on 93 Octane Pump Gas).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-red-400">Calculate Injectors, Turbo CFM & Pump →</span>
+        </a>
+        <a href="53l-60l-chevy-ls-turbo-800-hp-on-e85-flex-fuel-injector-turbo-pump-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-red-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-red-500 text-zinc-950 px-2.5 py-0.5 rounded">940cc (90 lb/hr)</span>
+            <span class="text-xs text-zinc-400">80.0 lb/min | 430 LPH</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-red-400 transition">5.3L / 6.0L Chevy LS Turbo (800 HP on E85 Flex-Fuel)</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact fuel injector size (940 cc/min / 90 lb/hr @ 80% IDC), turbocharger airflow (80.0 lb/min / 1,140 CFM @ 2.36 PR), and 430 LPH fuel pump for 5.3L / 6.0L Chevy LS Turbo (800 HP on E85 Flex-Fuel).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-red-400">Calculate Injectors, Turbo CFM & Pump →</span>
+        </a>
+        <a href="53l-60l-chevy-ls-turbo-650-hp-on-e85-flex-fuel-injector-turbo-pump-calculator.html" class="block bg-zinc-900 border border-zinc-800 hover:border-red-500/60 rounded-xl p-5 transition group">
+          <div class="flex items-center justify-between mb-2">
+            <span class="text-xs font-black uppercase bg-red-500 text-zinc-950 px-2.5 py-0.5 rounded">770cc (73 lb/hr)</span>
+            <span class="text-xs text-zinc-400">65.0 lb/min | 350 LPH</span>
+          </div>
+          <h2 class="text-base font-bold text-white group-hover:text-red-400 transition">5.3L / 6.0L Chevy LS Turbo (650 HP on E85 Flex-Fuel)</h2>
+          <p class="text-xs text-zinc-400 mt-2 line-clamp-2">Calculate exact fuel injector size (770 cc/min / 73 lb/hr @ 80% IDC), turbocharger airflow (65.0 lb/min / 930 CFM @ 2.09 PR), and 350 LPH fuel pump for 5.3L / 6.0L Chevy LS Turbo (650 HP on E85 Flex-Fuel).</p>
+          <span class="inline-block mt-4 text-xs font-extrabold text-red-400">Calculate Injectors, Turbo CFM & Pump →</span>
+        </a></div>
+  </main>
+
+  <footer class="border-t border-zinc-800 py-8 text-center text-xs text-zinc-500">
+    <p>© 2026 TurboInjectorIndex. As an Amazon Associate, we earn from qualifying purchases.</p>
+  </footer>
+
+  <script>
+    const filterInput = document.getElementById('filterInput');
+    const cards = Array.from(document.getElementById('trbGrid').children);
+    filterInput.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase();
+      cards.forEach(c => {
+        c.style.display = c.textContent.toLowerCase().includes(q) ? 'block' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
