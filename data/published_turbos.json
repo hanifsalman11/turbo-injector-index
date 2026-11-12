@@ -31,5 +31,38 @@
     "lb_min": 55.0,
     "lph": 220,
     "date": "2026-11-11"
+  },
+  {
+    "build_name": "Ford 5.0L Coyote Twin-Turbo / Whipple (750 HP on E85)",
+    "slug": "ford-50l-coyote-twin-turbo-whipple-750-hp-on-e85-injector-turbo-pump-calculator",
+    "title": "Ford 5.0L Coyote Twin-Turbo / Whipple (750 HP on E85) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (880 cc/min / 84 lb/hr @ 80% IDC), turbocharger airflow (75.0 lb/min / 1,070 CFM @ 2.09 PR), and 400 LPH fuel pump for Ford 5.0L Coyote Twin-Turbo / Whipple (750 HP on E85).",
+    "cc": 880,
+    "lb_hr": 84,
+    "lb_min": 75.0,
+    "lph": 400,
+    "date": "2026-11-12"
+  },
+  {
+    "build_name": "Honda K20 / K24 Turbo 4-Cylinder (500 HP on E85)",
+    "slug": "honda-k20-k24-turbo-4-cylinder-500-hp-on-e85-injector-turbo-pump-calculator",
+    "title": "Honda K20 / K24 Turbo 4-Cylinder (500 HP on E85) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,180 cc/min / 112 lb/hr @ 80% IDC), turbocharger airflow (50.0 lb/min / 710 CFM @ 2.63 PR), and 270 LPH fuel pump for Honda K20 / K24 Turbo 4-Cylinder (500 HP on E85).",
+    "cc": 1180,
+    "lb_hr": 112,
+    "lb_min": 50.0,
+    "lph": 270,
+    "date": "2026-11-12"
+  },
+  {
+    "build_name": "Honda K20 / K24 & B18C Turbo (400 HP on 93 Octane)",
+    "slug": "honda-k20-k24-b18c-turbo-400-hp-on-93-octane-injector-turbo-pump-calculator",
+    "title": "Honda K20 / K24 & B18C Turbo (400 HP on 93 Octane) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (720 cc/min / 69 lb/hr @ 80% IDC), turbocharger airflow (40.0 lb/min / 570 CFM @ 2.22 PR), and 160 LPH fuel pump for Honda K20 / K24 & B18C Turbo (400 HP on 93 Octane).",
+    "cc": 720,
+    "lb_hr": 69,
+    "lb_min": 40.0,
+    "lph": 160,
+    "date": "2026-11-12"
   }
 ]
