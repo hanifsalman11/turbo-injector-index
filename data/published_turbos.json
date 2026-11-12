@@ -64,5 +64,38 @@
     "lb_min": 40.0,
     "lph": 160,
     "date": "2026-11-12"
+  },
+  {
+    "build_name": "Toyota 2JZ-GTE / 1JZ-GTE Single Turbo (700 HP on E85)",
+    "slug": "toyota-2jz-gte-1jz-gte-single-turbo-700-hp-on-e85-injector-turbo-pump-calculator",
+    "title": "Toyota 2JZ-GTE / 1JZ-GTE Single Turbo (700 HP on E85) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,100 cc/min / 105 lb/hr @ 80% IDC), turbocharger airflow (70.0 lb/min / 1,000 CFM @ 2.77 PR), and 370 LPH fuel pump for Toyota 2JZ-GTE / 1JZ-GTE Single Turbo (700 HP on E85).",
+    "cc": 1100,
+    "lb_hr": 105,
+    "lb_min": 70.0,
+    "lph": 370,
+    "date": "2026-11-12"
+  },
+  {
+    "build_name": "BMW B58 / N54 / N55 Single & Hybrid Turbo (600 HP on E85)",
+    "slug": "bmw-b58-n54-n55-single-hybrid-turbo-600-hp-on-e85-injector-turbo-pump-calculator",
+    "title": "BMW B58 / N54 / N55 Single & Hybrid Turbo (600 HP on E85) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (940 cc/min / 90 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.63 PR), and 320 LPH fuel pump for BMW B58 / N54 / N55 Single & Hybrid Turbo (600 HP on E85).",
+    "cc": 940,
+    "lb_hr": 90,
+    "lb_min": 60.0,
+    "lph": 320,
+    "date": "2026-11-12"
+  },
+  {
+    "build_name": "Subaru EJ257 WRX STI Turbo (450 HP on E85 Flex-Fuel)",
+    "slug": "subaru-ej257-wrx-sti-turbo-450-hp-on-e85-flex-fuel-injector-turbo-pump-calculator",
+    "title": "Subaru EJ257 WRX STI Turbo (450 HP on E85 Flex-Fuel) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,060 cc/min / 101 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 2.56 PR), and 240 LPH fuel pump for Subaru EJ257 WRX STI Turbo (450 HP on E85 Flex-Fuel).",
+    "cc": 1060,
+    "lb_hr": 101,
+    "lb_min": 45.0,
+    "lph": 240,
+    "date": "2026-11-12"
   }
 ]
