@@ -97,5 +97,38 @@
     "lb_min": 45.0,
     "lph": 240,
     "date": "2026-11-12"
+  },
+  {
+    "build_name": "Garrett GT3582R & GTX3582R Gen II (600–750 HP) Sizing",
+    "slug": "garrett-gt3582r-gtx3582r-gen-ii-600750-hp-sizing-injector-turbo-pump-calculator",
+    "title": "Garrett GT3582R & GTX3582R Gen II (600–750 HP) Sizing Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,020 cc/min / 97 lb/hr @ 80% IDC), turbocharger airflow (65.0 lb/min / 930 CFM @ 2.5 PR), and 350 LPH fuel pump for Garrett GT3582R & GTX3582R Gen II (600–750 HP) Sizing.",
+    "cc": 1020,
+    "lb_hr": 97,
+    "lb_min": 65.0,
+    "lph": 350,
+    "date": "2026-11-13"
+  },
+  {
+    "build_name": "Garrett GTX3076R Gen II (450–600 HP) Airflow & Injector",
+    "slug": "garrett-gtx3076r-gen-ii-450600-hp-airflow-injector-injector-turbo-pump-calculator",
+    "title": "Garrett GTX3076R Gen II (450–600 HP) Airflow & Injector Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,240 cc/min / 118 lb/hr @ 80% IDC), turbocharger airflow (52.5 lb/min / 750 CFM @ 2.5 PR), and 280 LPH fuel pump for Garrett GTX3076R Gen II (450–600 HP) Airflow & Injector.",
+    "cc": 1240,
+    "lb_hr": 118,
+    "lb_min": 52.5,
+    "lph": 280,
+    "date": "2026-11-13"
+  },
+  {
+    "build_name": "Garrett GT2860RS (Disco Potato) & GTX2867R (350–450 HP)",
+    "slug": "garrett-gt2860rs-disco-potato-gtx2867r-350450-hp-injector-turbo-pump-calculator",
+    "title": "Garrett GT2860RS (Disco Potato) & GTX2867R (350–450 HP) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (680 cc/min / 65 lb/hr @ 80% IDC), turbocharger airflow (38.0 lb/min / 540 CFM @ 2.22 PR), and 160 LPH fuel pump for Garrett GT2860RS (Disco Potato) & GTX2867R (350–450 HP).",
+    "cc": 680,
+    "lb_hr": 65,
+    "lb_min": 38.0,
+    "lph": 160,
+    "date": "2026-11-13"
   }
 ]
