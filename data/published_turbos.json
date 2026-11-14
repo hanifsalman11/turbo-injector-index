@@ -229,5 +229,38 @@
     "lb_min": 70.0,
     "lph": 370,
     "date": "2026-11-14"
+  },
+  {
+    "build_name": "850cc (80 lb/hr) Fuel Injectors Max Horsepower (Gas vs E85)",
+    "slug": "850cc-80-lbhr-fuel-injectors-max-horsepower-gas-vs-e85-injector-turbo-pump-calculator",
+    "title": "850cc (80 lb/hr) Fuel Injectors Max Horsepower (Gas vs E85) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (710 cc/min / 68 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.09 PR), and 320 LPH fuel pump for 850cc (80 lb/hr) Fuel Injectors Max Horsepower (Gas vs E85).",
+    "cc": 710,
+    "lb_hr": 68,
+    "lb_min": 60.0,
+    "lph": 320,
+    "date": "2026-11-14"
+  },
+  {
+    "build_name": "1300cc (125 lb/hr) & 1500cc Fuel Injectors E85 HP Limit",
+    "slug": "1300cc-125-lbhr-1500cc-fuel-injectors-e85-hp-limit-injector-turbo-pump-calculator",
+    "title": "1300cc (125 lb/hr) & 1500cc Fuel Injectors E85 HP Limit Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,120 cc/min / 107 lb/hr @ 80% IDC), turbocharger airflow (95.0 lb/min / 1,360 CFM @ 2.63 PR), and 510 LPH fuel pump for 1300cc (125 lb/hr) & 1500cc Fuel Injectors E85 HP Limit.",
+    "cc": 1120,
+    "lb_hr": 107,
+    "lb_min": 95.0,
+    "lph": 510,
+    "date": "2026-11-14"
+  },
+  {
+    "build_name": "650cc (60 lb/hr) Fuel Injectors Max Horsepower Calculator",
+    "slug": "650cc-60-lbhr-fuel-injectors-max-horsepower-calculator-injector-turbo-pump-calculator",
+    "title": "650cc (60 lb/hr) Fuel Injectors Max Horsepower Calculator Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (450 cc/min / 43 lb/hr @ 80% IDC), turbocharger airflow (50.0 lb/min / 710 CFM @ 1.95 PR), and 200 LPH fuel pump for 650cc (60 lb/hr) Fuel Injectors Max Horsepower Calculator.",
+    "cc": 450,
+    "lb_hr": 43,
+    "lb_min": 50.0,
+    "lph": 200,
+    "date": "2026-11-14"
   }
 ]
