@@ -163,5 +163,38 @@
     "lb_min": 75.0,
     "lph": 400,
     "date": "2026-11-13"
+  },
+  {
+    "build_name": "GT45 T4 Flange Budget Turbo (450 to 650 HP V8 / I6)",
+    "slug": "gt45-t4-flange-budget-turbo-450-to-650-hp-v8-i6-injector-turbo-pump-calculator",
+    "title": "GT45 T4 Flange Budget Turbo (450 to 650 HP V8 / I6) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (490 cc/min / 47 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 1.95 PR), and 220 LPH fuel pump for GT45 T4 Flange Budget Turbo (450 to 650 HP V8 / I6).",
+    "cc": 490,
+    "lb_hr": 47,
+    "lb_min": 55.0,
+    "lph": 220,
+    "date": "2026-11-14"
+  },
+  {
+    "build_name": "Walbro 450 LPH (F90000267 / 274) E85 Fuel Pump HP Limit",
+    "slug": "walbro-450-lph-f90000267-274-e85-fuel-pump-hp-limit-injector-turbo-pump-calculator",
+    "title": "Walbro 450 LPH (F90000267 / 274) E85 Fuel Pump HP Limit Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (770 cc/min / 73 lb/hr @ 80% IDC), turbocharger airflow (65.0 lb/min / 930 CFM @ 2.22 PR), and 350 LPH fuel pump for Walbro 450 LPH (F90000267 / 274) E85 Fuel Pump HP Limit.",
+    "cc": 770,
+    "lb_hr": 73,
+    "lb_min": 65.0,
+    "lph": 350,
+    "date": "2026-11-14"
+  },
+  {
+    "build_name": "Walbro 525 LPH Hellcat (F90000285) E85 Fuel Pump HP Limit",
+    "slug": "walbro-525-lph-hellcat-f90000285-e85-fuel-pump-hp-limit-injector-turbo-pump-calculator",
+    "title": "Walbro 525 LPH Hellcat (F90000285) E85 Fuel Pump HP Limit Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (920 cc/min / 88 lb/hr @ 80% IDC), turbocharger airflow (78.0 lb/min / 1,110 CFM @ 2.36 PR), and 420 LPH fuel pump for Walbro 525 LPH Hellcat (F90000285) E85 Fuel Pump HP Limit.",
+    "cc": 920,
+    "lb_hr": 88,
+    "lb_min": 78.0,
+    "lph": 420,
+    "date": "2026-11-14"
   }
 ]
