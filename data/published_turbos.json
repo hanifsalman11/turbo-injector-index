@@ -262,5 +262,38 @@
     "lb_min": 50.0,
     "lph": 200,
     "date": "2026-11-14"
+  },
+  {
+    "build_name": "2,200cc (210 lb/hr) Race Fuel & Methanol Injector Sizing",
+    "slug": "2200cc-210-lbhr-race-fuel-methanol-injector-sizing-injector-turbo-pump-calculator",
+    "title": "2,200cc (210 lb/hr) Race Fuel & Methanol Injector Sizing Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,480 cc/min / 141 lb/hr @ 80% IDC), turbocharger airflow (120.0 lb/min / 1,710 CFM @ 3.04 PR), and 670 LPH fuel pump for 2,200cc (210 lb/hr) Race Fuel & Methanol Injector Sizing.",
+    "cc": 1480,
+    "lb_hr": 141,
+    "lb_min": 120.0,
+    "lph": 670,
+    "date": "2026-11-15"
+  },
+  {
+    "build_name": "5.7L / 6.4L Dodge Hemi Turbo & Hellcat Supercharger Fueling",
+    "slug": "57l-64l-dodge-hemi-turbo-hellcat-supercharger-fueling-injector-turbo-pump-calculator",
+    "title": "5.7L / 6.4L Dodge Hemi Turbo & Hellcat Supercharger Fueling Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (880 cc/min / 84 lb/hr @ 80% IDC), turbocharger airflow (75.0 lb/min / 1,070 CFM @ 2.16 PR), and 400 LPH fuel pump for 5.7L / 6.4L Dodge Hemi Turbo & Hellcat Supercharger Fueling.",
+    "cc": 880,
+    "lb_hr": 84,
+    "lb_min": 75.0,
+    "lph": 400,
+    "date": "2026-11-15"
+  },
+  {
+    "build_name": "Mazda Miata BP 1.8L & Ford EcoBoost 2.3L Turbo Sizing",
+    "slug": "mazda-miata-bp-18l-ford-ecoboost-23l-turbo-sizing-injector-turbo-pump-calculator",
+    "title": "Mazda Miata BP 1.8L & Ford EcoBoost 2.3L Turbo Sizing Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (660 cc/min / 63 lb/hr @ 80% IDC), turbocharger airflow (35.0 lb/min / 500 CFM @ 2.22 PR), and 150 LPH fuel pump for Mazda Miata BP 1.8L & Ford EcoBoost 2.3L Turbo Sizing.",
+    "cc": 660,
+    "lb_hr": 63,
+    "lb_min": 35.0,
+    "lph": 150,
+    "date": "2026-11-15"
   }
 ]
