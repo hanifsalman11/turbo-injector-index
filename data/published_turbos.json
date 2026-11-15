@@ -295,5 +295,38 @@
     "lb_min": 35.0,
     "lph": 150,
     "date": "2026-11-15"
+  },
+  {
+    "build_name": "Nissan SR20DET, RB25DET & VQ35DE Turbo Injector Sizing",
+    "slug": "nissan-sr20det-rb25det-vq35de-turbo-injector-sizing-injector-turbo-pump-calculator",
+    "title": "Nissan SR20DET, RB25DET & VQ35DE Turbo Injector Sizing Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (750 cc/min / 71 lb/hr @ 80% IDC), turbocharger airflow (50.0 lb/min / 710 CFM @ 2.36 PR), and 250 LPH fuel pump for Nissan SR20DET, RB25DET & VQ35DE Turbo Injector Sizing.",
+    "cc": 750,
+    "lb_hr": 71,
+    "lb_min": 50.0,
+    "lph": 250,
+    "date": "2026-11-15"
+  },
+  {
+    "build_name": "VW/Audi EA888 2.0T & VR6 3.2L Big-Turbo Fueling Calculator",
+    "slug": "vwaudi-ea888-20t-vr6-32l-big-turbo-fueling-calculator-injector-turbo-pump-calculator",
+    "title": "VW/Audi EA888 2.0T & VR6 3.2L Big-Turbo Fueling Calculator Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (860 cc/min / 82 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 2.63 PR), and 290 LPH fuel pump for VW/Audi EA888 2.0T & VR6 3.2L Big-Turbo Fueling Calculator.",
+    "cc": 860,
+    "lb_hr": 82,
+    "lb_min": 55.0,
+    "lph": 290,
+    "date": "2026-11-15"
+  },
+  {
+    "build_name": "Front-Mount Intercooler (FMIC) Core Volume & Charge Pipe Size",
+    "slug": "front-mount-intercooler-fmic-core-volume-charge-pipe-size-injector-turbo-pump-calculator",
+    "title": "Front-Mount Intercooler (FMIC) Core Volume & Charge Pipe Size Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (750 cc/min / 71 lb/hr @ 80% IDC), turbocharger airflow (65.0 lb/min / 930 CFM @ 2.22 PR), and 340 LPH fuel pump for Front-Mount Intercooler (FMIC) Core Volume & Charge Pipe Size.",
+    "cc": 750,
+    "lb_hr": 71,
+    "lb_min": 65.0,
+    "lph": 340,
+    "date": "2026-11-15"
   }
 ]
