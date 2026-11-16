@@ -361,5 +361,38 @@
     "lb_min": 60.0,
     "lph": 310,
     "date": "2026-11-16"
+  },
+  {
+    "build_name": "800Hp Ls",
+    "slug": "800hp-ls-injector-turbo-pump-calculator",
+    "title": "800Hp Ls Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 800Hp Ls.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-16"
+  },
+  {
+    "build_name": "1000Hp E85",
+    "slug": "1000hp-e85-injector-turbo-pump-calculator",
+    "title": "1000Hp E85 Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 1000Hp E85.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-16"
+  },
+  {
+    "build_name": "Turbo 5.3",
+    "slug": "turbo-53-injector-turbo-pump-calculator",
+    "title": "Turbo 5.3 Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Turbo 5.3.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-16"
   }
 ]
