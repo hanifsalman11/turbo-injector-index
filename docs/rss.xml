@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/turbo-injector-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>6.0 Powerstroke Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/turbo-injector-index/60-powerstroke-injector-turbo-pump-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/turbo-injector-index/60-powerstroke-injector-turbo-pump-calculator.html</guid>
+      <description>Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 6.0 Powerstroke.</description>
+    </item>
+    <item>
+      <title>700Hp Ls Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/turbo-injector-index/700hp-ls-injector-turbo-pump-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/turbo-injector-index/700hp-ls-injector-turbo-pump-calculator.html</guid>
+      <description>Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 700Hp Ls.</description>
+    </item>
+    <item>
+      <title>500Hp Ls Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/turbo-injector-index/500hp-ls-injector-turbo-pump-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/turbo-injector-index/500hp-ls-injector-turbo-pump-calculator.html</guid>
+      <description>Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 500Hp Ls.</description>
+    </item>
+    <item>
       <title>Front-Mount Intercooler (FMIC) Core Volume & Charge Pipe Size Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/turbo-injector-index/front-mount-intercooler-fmic-core-volume-charge-pipe-size-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/front-mount-intercooler-fmic-core-volume-charge-pipe-size-injector-turbo-pump-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/turbo-injector-index/ford-50l-coyote-twin-turbo-whipple-750-hp-on-e85-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/ford-50l-coyote-twin-turbo-whipple-750-hp-on-e85-injector-turbo-pump-calculator.html</guid>
       <description>Calculate exact fuel injector size (880 cc/min / 84 lb/hr @ 80% IDC), turbocharger airflow (75.0 lb/min / 1,070 CFM @ 2.09 PR), and 400 LPH fuel pump for Ford 5.0L Coyote Twin-Turbo / Whipple (750 HP on E85).</description>
-    </item>
-    <item>
-      <title>5.3L / 6.0L Chevy LS Turbo (550 HP on 93 Octane Pump Gas) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/turbo-injector-index/53l-60l-chevy-ls-turbo-550-hp-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/turbo-injector-index/53l-60l-chevy-ls-turbo-550-hp-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</guid>
-      <description>Calculate exact fuel injector size (490 cc/min / 47 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 1.88 PR), and 220 LPH fuel pump for 5.3L / 6.0L Chevy LS Turbo (550 HP on 93 Octane Pump Gas).</description>
-    </item>
-    <item>
-      <title>5.3L / 6.0L Chevy LS Turbo (800 HP on E85 Flex-Fuel) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/turbo-injector-index/53l-60l-chevy-ls-turbo-800-hp-on-e85-flex-fuel-injector-turbo-pump-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/turbo-injector-index/53l-60l-chevy-ls-turbo-800-hp-on-e85-flex-fuel-injector-turbo-pump-calculator.html</guid>
-      <description>Calculate exact fuel injector size (940 cc/min / 90 lb/hr @ 80% IDC), turbocharger airflow (80.0 lb/min / 1,140 CFM @ 2.36 PR), and 430 LPH fuel pump for 5.3L / 6.0L Chevy LS Turbo (800 HP on E85 Flex-Fuel).</description>
-    </item>
-    <item>
-      <title>5.3L / 6.0L Chevy LS Turbo (650 HP on E85 Flex-Fuel) Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/turbo-injector-index/53l-60l-chevy-ls-turbo-650-hp-on-e85-flex-fuel-injector-turbo-pump-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/turbo-injector-index/53l-60l-chevy-ls-turbo-650-hp-on-e85-flex-fuel-injector-turbo-pump-calculator.html</guid>
-      <description>Calculate exact fuel injector size (770 cc/min / 73 lb/hr @ 80% IDC), turbocharger airflow (65.0 lb/min / 930 CFM @ 2.09 PR), and 350 LPH fuel pump for 5.3L / 6.0L Chevy LS Turbo (650 HP on E85 Flex-Fuel).</description>
     </item>
   </channel>
 </rss>

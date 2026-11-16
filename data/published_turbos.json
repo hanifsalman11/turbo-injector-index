@@ -328,5 +328,38 @@
     "lb_min": 65.0,
     "lph": 340,
     "date": "2026-11-15"
+  },
+  {
+    "build_name": "500Hp Ls",
+    "slug": "500hp-ls-injector-turbo-pump-calculator",
+    "title": "500Hp Ls Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 500Hp Ls.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-16"
+  },
+  {
+    "build_name": "700Hp Ls",
+    "slug": "700hp-ls-injector-turbo-pump-calculator",
+    "title": "700Hp Ls Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 700Hp Ls.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-16"
+  },
+  {
+    "build_name": "6.0 Powerstroke",
+    "slug": "60-powerstroke-injector-turbo-pump-calculator",
+    "title": "6.0 Powerstroke Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 6.0 Powerstroke.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-16"
   }
 ]
