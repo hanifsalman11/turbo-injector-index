@@ -427,5 +427,38 @@
     "lb_min": 60.0,
     "lph": 310,
     "date": "2026-11-17"
+  },
+  {
+    "build_name": "Methanol",
+    "slug": "methanol-injector-turbo-pump-calculator",
+    "title": "Methanol Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Methanol.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-17"
+  },
+  {
+    "build_name": "Fuel Injector",
+    "slug": "fuel-injector-injector-turbo-pump-calculator",
+    "title": "Fuel Injector Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Fuel Injector.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-17"
+  },
+  {
+    "build_name": "Pressure",
+    "slug": "pressure-injector-turbo-pump-calculator",
+    "title": "Pressure Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Pressure.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-17"
   }
 ]
