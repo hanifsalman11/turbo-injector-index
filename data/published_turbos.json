@@ -493,5 +493,38 @@
     "lb_min": 60.0,
     "lph": 310,
     "date": "2026-11-18"
+  },
+  {
+    "build_name": "Fuel Injector Timing",
+    "slug": "fuel-injector-timing-injector-turbo-pump-calculator",
+    "title": "Fuel Injector Timing Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Fuel Injector Timing.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-18"
+  },
+  {
+    "build_name": "Exhaust    Turbo",
+    "slug": "exhaust-turbo-injector-turbo-pump-calculator",
+    "title": "Exhaust    Turbo Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Exhaust    Turbo.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-18"
+  },
+  {
+    "build_name": "Injector    Turbo",
+    "slug": "injector-turbo-injector-turbo-pump-calculator",
+    "title": "Injector    Turbo Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Injector    Turbo.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-18"
   }
 ]
