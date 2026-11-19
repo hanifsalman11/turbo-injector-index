@@ -559,5 +559,38 @@
     "lb_min": 45.0,
     "lph": 230,
     "date": "2026-11-19"
+  },
+  {
+    "build_name": "Walbro 450 Hp Rating E85",
+    "slug": "walbro-450-hp-rating-e85-injector-turbo-pump-calculator",
+    "title": "Walbro 450 Hp Rating E85 Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,030 cc/min / 98 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 2.22 PR), and 230 LPH fuel pump for Walbro 450 Hp Rating E85.",
+    "cc": 1030,
+    "lb_hr": 98,
+    "lb_min": 45.0,
+    "lph": 230,
+    "date": "2026-11-19"
+  },
+  {
+    "build_name": "Walbro 450Lph Hp Rating",
+    "slug": "walbro-450lph-hp-rating-injector-turbo-pump-calculator",
+    "title": "Walbro 450Lph Hp Rating Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Walbro 450Lph Hp Rating.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-19"
+  },
+  {
+    "build_name": "Dual Walbro 450 Hp Rating",
+    "slug": "dual-walbro-450-hp-rating-injector-turbo-pump-calculator",
+    "title": "Dual Walbro 450 Hp Rating Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,030 cc/min / 98 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 2.22 PR), and 230 LPH fuel pump for Dual Walbro 450 Hp Rating.",
+    "cc": 1030,
+    "lb_hr": 98,
+    "lb_min": 45.0,
+    "lph": 230,
+    "date": "2026-11-19"
   }
 ]
