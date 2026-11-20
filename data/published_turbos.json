@@ -592,5 +592,38 @@
     "lb_min": 45.0,
     "lph": 230,
     "date": "2026-11-19"
+  },
+  {
+    "build_name": "How Much Hp Will A Walbro 450 Support",
+    "slug": "how-much-hp-will-a-walbro-450-support-injector-turbo-pump-calculator",
+    "title": "How Much Hp Will A Walbro 450 Support Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,030 cc/min / 98 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 2.22 PR), and 230 LPH fuel pump for How Much Hp Will A Walbro 450 Support.",
+    "cc": 1030,
+    "lb_hr": 98,
+    "lb_min": 45.0,
+    "lph": 230,
+    "date": "2026-11-20"
+  },
+  {
+    "build_name": "How Much Power Can A Walbro 450 Support",
+    "slug": "how-much-power-can-a-walbro-450-support-injector-turbo-pump-calculator",
+    "title": "How Much Power Can A Walbro 450 Support Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,030 cc/min / 98 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 2.22 PR), and 230 LPH fuel pump for How Much Power Can A Walbro 450 Support.",
+    "cc": 1030,
+    "lb_hr": 98,
+    "lb_min": 45.0,
+    "lph": 230,
+    "date": "2026-11-20"
+  },
+  {
+    "build_name": "Walbro 255 Hp Limit",
+    "slug": "walbro-255-hp-limit-injector-turbo-pump-calculator",
+    "title": "Walbro 255 Hp Limit Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Walbro 255 Hp Limit.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-20"
   }
 ]
