@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/turbo-injector-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>350 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/turbo-injector-index/350-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/turbo-injector-index/350-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</guid>
+      <description>Calculate exact fuel injector size (630 cc/min / 60 lb/hr @ 80% IDC), turbocharger airflow (35.0 lb/min / 500 CFM @ 1.95 PR), and 140 LPH fuel pump for 350 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas.</description>
+    </item>
+    <item>
       <title>Walbro 255 Hp Limit Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/turbo-injector-index/walbro-255-hp-limit-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/walbro-255-hp-limit-injector-turbo-pump-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/turbo-injector-index/vwaudi-ea888-20t-vr6-32l-big-turbo-fueling-calculator-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/vwaudi-ea888-20t-vr6-32l-big-turbo-fueling-calculator-injector-turbo-pump-calculator.html</guid>
       <description>Calculate exact fuel injector size (860 cc/min / 82 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 2.63 PR), and 290 LPH fuel pump for VW/Audi EA888 2.0T & VR6 3.2L Big-Turbo Fueling Calculator.</description>
-    </item>
-    <item>
-      <title>Nissan SR20DET, RB25DET & VQ35DE Turbo Injector Sizing Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/turbo-injector-index/nissan-sr20det-rb25det-vq35de-turbo-injector-sizing-injector-turbo-pump-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/turbo-injector-index/nissan-sr20det-rb25det-vq35de-turbo-injector-sizing-injector-turbo-pump-calculator.html</guid>
-      <description>Calculate exact fuel injector size (750 cc/min / 71 lb/hr @ 80% IDC), turbocharger airflow (50.0 lb/min / 710 CFM @ 2.36 PR), and 250 LPH fuel pump for Nissan SR20DET, RB25DET & VQ35DE Turbo Injector Sizing.</description>
     </item>
   </channel>
 </rss>
