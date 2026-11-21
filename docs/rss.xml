@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/turbo-injector-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>350 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/turbo-injector-index/350-hp-4-cylinder-turbo-engine-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/turbo-injector-index/350-hp-4-cylinder-turbo-engine-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator.html</guid>
+      <description>Calculate exact fuel injector size (830 cc/min / 79 lb/hr @ 80% IDC), turbocharger airflow (35.0 lb/min / 500 CFM @ 2.36 PR), and 190 LPH fuel pump for 350 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel.</description>
+    </item>
+    <item>
       <title>350 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/turbo-injector-index/350-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/350-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/turbo-injector-index/front-mount-intercooler-fmic-core-volume-charge-pipe-size-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/front-mount-intercooler-fmic-core-volume-charge-pipe-size-injector-turbo-pump-calculator.html</guid>
       <description>Calculate exact fuel injector size (750 cc/min / 71 lb/hr @ 80% IDC), turbocharger airflow (65.0 lb/min / 930 CFM @ 2.22 PR), and 340 LPH fuel pump for Front-Mount Intercooler (FMIC) Core Volume & Charge Pipe Size.</description>
-    </item>
-    <item>
-      <title>VW/Audi EA888 2.0T & VR6 3.2L Big-Turbo Fueling Calculator Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/turbo-injector-index/vwaudi-ea888-20t-vr6-32l-big-turbo-fueling-calculator-injector-turbo-pump-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/turbo-injector-index/vwaudi-ea888-20t-vr6-32l-big-turbo-fueling-calculator-injector-turbo-pump-calculator.html</guid>
-      <description>Calculate exact fuel injector size (860 cc/min / 82 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 2.63 PR), and 290 LPH fuel pump for VW/Audi EA888 2.0T & VR6 3.2L Big-Turbo Fueling Calculator.</description>
     </item>
   </channel>
 </rss>
