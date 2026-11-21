@@ -647,5 +647,16 @@
     "lb_min": 35.0,
     "lph": 190,
     "date": "2026-11-21"
+  },
+  {
+    "build_name": "450 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas",
+    "slug": "450-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator",
+    "title": "450 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (810 cc/min / 77 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 1.95 PR), and 180 LPH fuel pump for 450 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas.",
+    "cc": 810,
+    "lb_hr": 77,
+    "lb_min": 45.0,
+    "lph": 180,
+    "date": "2026-11-21"
   }
 ]
