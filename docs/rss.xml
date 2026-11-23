@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/turbo-injector-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>550 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/turbo-injector-index/550-hp-4-cylinder-turbo-engine-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/turbo-injector-index/550-hp-4-cylinder-turbo-engine-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator.html</guid>
+      <description>Calculate exact fuel injector size (1,300 cc/min / 124 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 2.36 PR), and 290 LPH fuel pump for 550 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel.</description>
+    </item>
+    <item>
       <title>550 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/turbo-injector-index/550-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/550-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/turbo-injector-index/800hp-ls-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/800hp-ls-injector-turbo-pump-calculator.html</guid>
       <description>Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 800Hp Ls.</description>
-    </item>
-    <item>
-      <title>6.0 Powerstroke Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/turbo-injector-index/60-powerstroke-injector-turbo-pump-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/turbo-injector-index/60-powerstroke-injector-turbo-pump-calculator.html</guid>
-      <description>Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 6.0 Powerstroke.</description>
     </item>
   </channel>
 </rss>

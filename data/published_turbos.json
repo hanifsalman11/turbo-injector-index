@@ -680,5 +680,16 @@
     "lb_min": 55.0,
     "lph": 220,
     "date": "2026-11-22"
+  },
+  {
+    "build_name": "550 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel",
+    "slug": "550-hp-4-cylinder-turbo-engine-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator",
+    "title": "550 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,300 cc/min / 124 lb/hr @ 80% IDC), turbocharger airflow (55.0 lb/min / 780 CFM @ 2.36 PR), and 290 LPH fuel pump for 550 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel.",
+    "cc": 1300,
+    "lb_hr": 124,
+    "lb_min": 55.0,
+    "lph": 290,
+    "date": "2026-11-23"
   }
 ]
