@@ -713,5 +713,16 @@
     "lb_min": 65.0,
     "lph": 350,
     "date": "2026-11-24"
+  },
+  {
+    "build_name": "750 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas",
+    "slug": "750-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator",
+    "title": "750 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,350 cc/min / 129 lb/hr @ 80% IDC), turbocharger airflow (75.0 lb/min / 1,070 CFM @ 1.95 PR), and 310 LPH fuel pump for 750 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas.",
+    "cc": 1350,
+    "lb_hr": 129,
+    "lb_min": 75.0,
+    "lph": 310,
+    "date": "2026-11-24"
   }
 ]

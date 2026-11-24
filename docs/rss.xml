@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/turbo-injector-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>750 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/turbo-injector-index/750-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/turbo-injector-index/750-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator.html</guid>
+      <description>Calculate exact fuel injector size (1,350 cc/min / 129 lb/hr @ 80% IDC), turbocharger airflow (75.0 lb/min / 1,070 CFM @ 1.95 PR), and 310 LPH fuel pump for 750 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas.</description>
+    </item>
+    <item>
       <title>650 HP 4-Cylinder Turbo Engine on E85 Ethanol Flex-Fuel Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/turbo-injector-index/650-hp-4-cylinder-turbo-engine-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/650-hp-4-cylinder-turbo-engine-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/turbo-injector-index/500hp-injector-turbo-pump-calculator.html</link>
       <guid>https://hanifsalman11.github.io/turbo-injector-index/500hp-injector-turbo-pump-calculator.html</guid>
       <description>Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 500Hp.</description>
-    </item>
-    <item>
-      <title>Turbo 5.3 Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/turbo-injector-index/turbo-53-injector-turbo-pump-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/turbo-injector-index/turbo-53-injector-turbo-pump-calculator.html</guid>
-      <description>Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Turbo 5.3.</description>
     </item>
   </channel>
 </rss>
