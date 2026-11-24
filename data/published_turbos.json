@@ -691,5 +691,16 @@
     "lb_min": 55.0,
     "lph": 290,
     "date": "2026-11-23"
+  },
+  {
+    "build_name": "650 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas",
+    "slug": "650-hp-4-cylinder-turbo-engine-on-93-octane-pump-gas-injector-turbo-pump-calculator",
+    "title": "650 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (1,180 cc/min / 112 lb/hr @ 80% IDC), turbocharger airflow (65.0 lb/min / 930 CFM @ 1.95 PR), and 270 LPH fuel pump for 650 HP 4-Cylinder Turbo Engine on 93 Octane Pump Gas.",
+    "cc": 1180,
+    "lb_hr": 112,
+    "lb_min": 65.0,
+    "lph": 270,
+    "date": "2026-11-24"
   }
 ]
