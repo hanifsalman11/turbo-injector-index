@@ -735,5 +735,38 @@
     "lb_min": 75.0,
     "lph": 400,
     "date": "2026-11-25"
+  },
+  {
+    "build_name": "600Hp Ls",
+    "slug": "600hp-ls-injector-turbo-pump-calculator",
+    "title": "600Hp Ls Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for 600Hp Ls.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-25"
+  },
+  {
+    "build_name": "Fuel Injector Horsepower",
+    "slug": "fuel-injector-horsepower-injector-turbo-pump-calculator",
+    "title": "Fuel Injector Horsepower Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Fuel Injector Horsepower.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-25"
+  },
+  {
+    "build_name": "Deatschwerks Fuel Injector",
+    "slug": "deatschwerks-fuel-injector-injector-turbo-pump-calculator",
+    "title": "Deatschwerks Fuel Injector Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (690 cc/min / 66 lb/hr @ 80% IDC), turbocharger airflow (60.0 lb/min / 860 CFM @ 2.22 PR), and 310 LPH fuel pump for Deatschwerks Fuel Injector.",
+    "cc": 690,
+    "lb_hr": 66,
+    "lb_min": 60.0,
+    "lph": 310,
+    "date": "2026-11-25"
   }
 ]
