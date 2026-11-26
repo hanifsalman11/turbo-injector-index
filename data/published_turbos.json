@@ -768,5 +768,16 @@
     "lb_min": 60.0,
     "lph": 310,
     "date": "2026-11-25"
+  },
+  {
+    "build_name": "350 HP 6-Cylinder Inline/V6 Turbo on 93 Octane Pump Gas",
+    "slug": "350-hp-6-cylinder-inlinev6-turbo-on-93-octane-pump-gas-injector-turbo-pump-calculator",
+    "title": "350 HP 6-Cylinder Inline/V6 Turbo on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (420 cc/min / 40 lb/hr @ 80% IDC), turbocharger airflow (35.0 lb/min / 500 CFM @ 1.95 PR), and 140 LPH fuel pump for 350 HP 6-Cylinder Inline/V6 Turbo on 93 Octane Pump Gas.",
+    "cc": 420,
+    "lb_hr": 40,
+    "lb_min": 35.0,
+    "lph": 140,
+    "date": "2026-11-26"
   }
 ]
