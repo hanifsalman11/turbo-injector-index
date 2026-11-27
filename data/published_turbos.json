@@ -801,5 +801,16 @@
     "lb_min": 45.0,
     "lph": 180,
     "date": "2026-11-27"
+  },
+  {
+    "build_name": "450 HP 6-Cylinder Inline/V6 Turbo on E85 Ethanol Flex-Fuel",
+    "slug": "450-hp-6-cylinder-inlinev6-turbo-on-e85-ethanol-flex-fuel-injector-turbo-pump-calculator",
+    "title": "450 HP 6-Cylinder Inline/V6 Turbo on E85 Ethanol Flex-Fuel Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (700 cc/min / 67 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 2.36 PR), and 240 LPH fuel pump for 450 HP 6-Cylinder Inline/V6 Turbo on E85 Ethanol Flex-Fuel.",
+    "cc": 700,
+    "lb_hr": 67,
+    "lb_min": 45.0,
+    "lph": 240,
+    "date": "2026-11-27"
   }
 ]
