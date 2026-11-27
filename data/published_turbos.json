@@ -790,5 +790,16 @@
     "lb_min": 35.0,
     "lph": 190,
     "date": "2026-11-26"
+  },
+  {
+    "build_name": "450 HP 6-Cylinder Inline/V6 Turbo on 93 Octane Pump Gas",
+    "slug": "450-hp-6-cylinder-inlinev6-turbo-on-93-octane-pump-gas-injector-turbo-pump-calculator",
+    "title": "450 HP 6-Cylinder Inline/V6 Turbo on 93 Octane Pump Gas Injector Size (cc/lb), Turbo CFM & Fuel Pump Calculator (2026)",
+    "description": "Calculate exact fuel injector size (550 cc/min / 52 lb/hr @ 80% IDC), turbocharger airflow (45.0 lb/min / 640 CFM @ 1.95 PR), and 180 LPH fuel pump for 450 HP 6-Cylinder Inline/V6 Turbo on 93 Octane Pump Gas.",
+    "cc": 550,
+    "lb_hr": 52,
+    "lb_min": 45.0,
+    "lph": 180,
+    "date": "2026-11-27"
   }
 ]
